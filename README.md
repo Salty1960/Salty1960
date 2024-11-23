@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Salty1960
+- 👀 I’m interested in AI building and administration automation
