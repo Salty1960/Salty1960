@@ -1,0 +1,11 @@
+# Git PAT Configuration Example
+# Copy this file to ~/.git-pat-config and modify as needed
+
+# Your GitHub username
+USERNAME="your-github-username"
+
+# Repository URL (HTTPS format)
+REPO_URL="https://github.com/your-username/your-repository.git"
+
+# Note: Personal Access Token (PAT) is never stored in this file for security
+# It will be prompted for during use
